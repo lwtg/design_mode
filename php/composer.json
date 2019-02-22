@@ -1,0 +1,14 @@
+{
+    "name": "renc/php",
+    "description": "this php design mode",
+    "authors": [
+        {
+            "name": "renchen",
+            "email": "renchen@minicart.cn"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    }
+}
